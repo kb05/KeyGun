@@ -17,8 +17,7 @@ then
   	fi
 elif [ "$1" == "Shoot" ]
 then
-	command=$(cat $chamberFile);
-	gnome-terminal -x sh -c "$command; sleep 2;exit;fish"
+	$(cat $chamberFile);
     exit 0
 else
     echo "The command must be executed with the 'Charge' or 'Shoot' option"
