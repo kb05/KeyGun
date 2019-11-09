@@ -18,6 +18,7 @@ then
 elif [ "$1" == "Shoot" ]
 then
 	$(cat $chamberFile);
+	sleep 4;
     exit 0
 else
     echo "The command must be executed with the 'Charge' or 'Shoot' option"
