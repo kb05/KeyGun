@@ -11,4 +11,5 @@ A command that allows save a command and execute it multiples time using shortcu
 2. Write the command to execute in each shoot
 3. Execute the command with the shoot opion /home/kb05/Apps/KeyGun/KeyGun.sh Shoot
 4. Have fun with your command
-Optional. Assign the charge option and the shoot option to a keyboard shortcut, ( a use case that I usually use the command is copy a especific http request for my server, transform to a curl request and execute it until I find the problem that I'm trying to solve).
+
+***Optional:***. Assign the charge option and the shoot option to a keyboard shortcut, ( a use case that I usually use the command is copy a especific http request for my server, transform to a curl request and execute it until I find the problem that I'm trying to solve).
